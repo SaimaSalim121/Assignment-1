@@ -75,3 +75,32 @@ nav{
     padding: 10px 15px;
     display: block;
 }
+
+/* action */
+.action-main{
+    display: flex;
+    justify-content: center;
+}
+.actions{
+    width: 600px;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+.action1{
+    display: flex;
+    gap: 110px;
+}
+.action-des p{
+    font-size: 14 px;
+    color:gray ;
+}
+.bbtn3{
+    padding: 10px 20px;
+}
+.action-img{
+    height: 170px;
+    width: 180px;
+    border-radius: 20%;
+    
+}
