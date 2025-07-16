@@ -52,8 +52,8 @@ nav{
 
 .banner-main{
     height: 400px;
-    padding: 30px 40px;
-    background-image: url(/images/Assets/Hero-bg.png);
+    background-image: url(../images/Assets/Hero-bg.png);
+    padding: 30px 50px;
     text-align: center;
     
 }
